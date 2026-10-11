@@ -1,0 +1,92 @@
+{
+  "baklava": {
+    "nome": "Baklava",
+    "ingredienti": ["pasta fillo", "noci", "pistacchi", "burro", "sciroppo di miele", "cannella"],
+    "calorie_kcal_100g": 428,
+    "proteine_g_100g": 6.7,
+    "carboidrati_g_100g": 37.6,
+    "grassi_g_100g": 29,
+    "descrizione": "Dolce turco e mediorientale a strati di pasta fillo croccante, farcito con frutta secca tritata e bagnato con sciroppo di miele. Molto dolce e ricco."
+  },
+  "churros": {
+    "nome": "Churros",
+    "ingredienti": ["farina", "acqua", "sale", "olio per friggere", "zucchero", "cannella", "cioccolata calda per accompagnare"],
+    "calorie_kcal_100g": 447,
+    "proteine_g_100g": 2.8,
+    "carboidrati_g_100g": 45.9,
+    "grassi_g_100g": 28.3,
+    "descrizione": "Dolce fritto spagnolo a forma di bastoncino, croccante fuori e morbido dentro, passato nello zucchero e cannella e spesso intinto nella cioccolata calda."
+  },
+  "pizza": {
+    "nome": "Pizza",
+    "ingredienti": ["farina", "lievito", "pomodoro", "mozzarella", "olio d'oliva", "basilico"],
+    "calorie_kcal_100g": 266,
+    "proteine_g_100g": 11.4,
+    "carboidrati_g_100g": 33,
+    "grassi_g_100g": 9.8,
+    "descrizione": "Piatto italiano a base di impasto lievitato cotto in forno, condito con pomodoro e mozzarella. Salata, calda e sostanziosa."
+  },
+  "sushi": {
+    "nome": "Sushi",
+    "ingredienti": ["riso per sushi", "aceto di riso", "pesce crudo", "alga nori", "wasabi", "salsa di soia"],
+    "calorie_kcal_100g": 143,
+    "proteine_g_100g": 4.8,
+    "carboidrati_g_100g": 28,
+    "grassi_g_100g": 1,
+    "descrizione": "Piatto giapponese di riso condito con aceto abbinato a pesce crudo o verdure, spesso avvolto nell'alga nori. Leggero, fresco e delicato."
+  },
+  "caesar_salad": {
+    "nome": "Caesar Salad",
+    "ingredienti": ["lattuga romana", "pollo grigliato", "crostini di pane", "parmigiano", "salsa Caesar"],
+    "calorie_kcal_100g": 103,
+    "proteine_g_100g": 7.4,
+    "carboidrati_g_100g": 7.1,
+    "grassi_g_100g": 4.6,
+    "descrizione": "Insalata fresca e croccante di lattuga romana con crostini, parmigiano e una salsa cremosa all'acciuga e limone, spesso con pollo."
+  },
+  "hamburger": {
+    "nome": "Hamburger",
+    "ingredienti": ["pane per hamburger", "carne di manzo", "formaggio", "lattuga", "pomodoro", "cipolla", "salse"],
+    "calorie_kcal_100g": 254,
+    "proteine_g_100g": 13,
+    "carboidrati_g_100g": 24,
+    "grassi_g_100g": 11.5,
+    "descrizione": "Panino americano con polpetta di carne alla griglia, verdure e formaggio. Caldo, saporito e molto sostanzioso."
+  },
+  "spaghetti_carbonara": {
+    "nome": "Spaghetti alla Carbonara",
+    "ingredienti": ["spaghetti", "guanciale", "uova", "pecorino romano", "pepe nero"],
+    "calorie_kcal_100g": 215,
+    "proteine_g_100g": 9.2,
+    "carboidrati_g_100g": 25.5,
+    "grassi_g_100g": 15.5,
+    "descrizione": "Primo piatto romano di pasta condita con crema d'uovo e pecorino, guanciale croccante e pepe. Caldo, cremoso e saporito."
+  },
+  "tiramisu": {
+    "nome": "Tiramisù",
+    "ingredienti": ["savoiardi", "mascarpone", "uova", "zucchero", "caffè", "cacao amaro"],
+    "calorie_kcal_100g": 283,
+    "proteine_g_100g": 4.5,
+    "carboidrati_g_100g": 30,
+    "grassi_g_100g": 15.5,
+    "descrizione": "Dolce al cucchiaio italiano con strati di savoiardi inzuppati nel caffè e crema al mascarpone, spolverato di cacao. Cremoso, freddo e goloso."
+  },
+  "greek_salad": {
+    "nome": "Insalata Greca",
+    "ingredienti": ["pomodori", "cetrioli", "cipolla rossa", "feta", "olive nere", "olio d'oliva", "origano"],
+    "calorie_kcal_100g": 95,
+    "proteine_g_100g": 2.2,
+    "carboidrati_g_100g": 4.5,
+    "grassi_g_100g": 7.8,
+    "descrizione": "Insalata fredda di verdure fresche con feta e olive, condita con olio e origano. Fresca, leggera e ideale nelle giornate calde."
+  },
+  "pancakes": {
+    "nome": "Pancakes",
+    "ingredienti": ["farina", "uova", "latte", "zucchero", "lievito", "burro", "sciroppo d'acero"],
+    "calorie_kcal_100g": 227,
+    "proteine_g_100g": 6.4,
+    "carboidrati_g_100g": 28.3,
+    "grassi_g_100g": 9.8,
+    "descrizione": "Frittelle soffici di origine americana, servite a pila con sciroppo d'acero o frutta. Dolci, calde e adatte alla colazione."
+  }
+}
